@@ -1,2 +1,2 @@
 # incribo
-AI-based memory framework
+# What is incribo's memory framework?
