@@ -49,10 +49,10 @@ Connect with us [here](https://cal.com/uma08/30min).
 # 🌐 Contributing
 Join our growing community around the world, for help, ideas, and discussions on AI.
 
-View our official [Blog]().
-Chat with us on [Discord]().
-Follow us on [Twitter](https://twitter.com/IncriboOfficial).
-Connect with us on [LinkedIn](https://www.linkedin.com/company/incribo).
+- View our official [Blog]().
+- Chat with us on [Discord]().
+- Follow us on [Twitter](https://twitter.com/IncriboOfficial).
+- Connect with us on [LinkedIn](https://www.linkedin.com/company/incribo).
 
 
 
