@@ -8,8 +8,6 @@ Incribo lets you add **state** to your embeddings. Using it, you can track how e
 pip install incribo
 ```
 
-# Python API
-
 # ✨ Usage
 
 # 📖 Documentation
