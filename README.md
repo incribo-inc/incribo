@@ -1,11 +1,12 @@
 # incribo
-# What is incribo's memory framework?
--> The memory framework was developed to help users embed memory inside their AI models enabling a more hardware-independent approach to building production-grade AI models on a budget and in a fraction of the time.
+Incribo lets you add **state** to your embeddings. Using it, you can track how embeddings change over time, compare different embeddings to see their similarities and stream new data to update embeddings on the fly. 
 
 
 # 🔧 Quick install
-
-# Python API
+```python
+#Download the Python package
+pip install incribo
+```
 
 # ✨ Usage
 
