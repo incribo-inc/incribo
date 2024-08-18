@@ -15,7 +15,7 @@ pip install incribo
 ```
 
 # ✨ Basic Usage
-Before we get started, it is advised to setup a virtual environment to work in. Incribo works with all embedding models -
+Before we get started, it is advised to setup a virtual environment to work in. Next, add your embedding model and generate stateful embeddings with Incribo like so -
 ```python
 from incribo import Embedding
 
@@ -47,11 +47,14 @@ Connect with us [here](https://cal.com/uma08/30min).
 
 
 # 🌐 Contributing
+Join our growing community around the world, for help, ideas, and discussions on AI.
+
+View our official [Blog]().
+Chat with us on [Discord]().
+Follow us on [Twitter](https://twitter.com/IncriboOfficial).
+Connect with us on [LinkedIn](https://www.linkedin.com/company/incribo).
 
 
 
-# Anonymous Telemetry
-
-
-
-# Citations
+# License
+This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/incribo-inc/incribo/blob/main/LICENSE) file for details.
