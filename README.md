@@ -43,7 +43,7 @@ For detailed usage instructions and example use cases, visit our documentation a
 
 
 # 🤝 Connect with the founders 1:1 
-Connect with us [here] (https://cal.com/uma08/30min).
+Connect with us [here](https://cal.com/uma08/30min).
 
 
 # 🌐 Contributing
