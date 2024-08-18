@@ -3,6 +3,9 @@ Incribo lets you add state to your embeddings. Using it, you can track how embed
 
 
 # 🔧 Quick install
+```python
+pip install incribo
+```
 
 # Python API
 
