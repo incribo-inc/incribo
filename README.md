@@ -4,7 +4,7 @@ Incribo lets you add **state** to your embeddings. Using it, you can track how e
 
 # 🔧 Quick install
 ```python
-#Download the PyPI package
+#Download the Python package
 pip install incribo
 ```
 
