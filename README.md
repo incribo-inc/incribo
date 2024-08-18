@@ -19,7 +19,7 @@ Before we get started, it is advised to setup a virtual environment to work in. 
 ```python
 from incribo import Embedding
 
-# Create a new embedding
+# Create a new embedding and add an associated model for better identification
 emb = Embedding([1.0, 2.0, 3.0], "bert-base-uncased")
 
 # Get the vector
