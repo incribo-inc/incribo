@@ -9,6 +9,11 @@ pip install incribo
 ```
 
 # ✨ Usage
+- **Real-time Embedding Updates**: Efficient handling of evolving, dynamic data.
+- **Compare embedding qualities**: Compare different embeddings and evaluate their quality using customizable metrics.
+- **Versioning & Control**: Create multiple versions of embeddings and track them over time with rollback abilities.
+- **Streaming data**: Stream data from multiple sources.
+- **Cross-Platform Compatibility**: Hassle-free hosted solution.
 
 # 📖 Documentation
 
