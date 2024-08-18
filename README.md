@@ -14,8 +14,25 @@ Incribo lets you add **state** to your embeddings. Using it, you can track how e
 pip install incribo
 ```
 
-# ✨ Usage
+# ✨ Basic Usage
+Before we get started, it is advised to setup a virtual environment to work in. Incribo works with all embedding models -
+```python
+from incribo import Embedding
 
+# Create a new embedding
+emb = Embedding([1.0, 2.0, 3.0], "bert-base-uncased")
+
+# Get the vector
+vector = emb.get_vector()
+print(f"Embedding vector: {vector}")
+
+# Get the model name
+model = emb.get_model()
+print(f"Model: {model}")
+
+# print the Embedding object 
+print(emb)
+```
 
 # 📖 Documentation
 
