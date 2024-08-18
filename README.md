@@ -1,9 +1,10 @@
 # incribo
-Incribo lets you add state to your embeddings. Using it, you can track how embeddings change over time, compare different embeddings to see their similarities and stream new data to update embeddings on the fly. 
+Incribo lets you add **state** to your embeddings. Using it, you can track how embeddings change over time, compare different embeddings to see their similarities and stream new data to update embeddings on the fly. 
 
 
 # 🔧 Quick install
 ```python
+#Download the PyPI package
 pip install incribo
 ```
 
