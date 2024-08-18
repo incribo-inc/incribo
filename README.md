@@ -38,18 +38,17 @@ print(emb)
 For detailed usage instructions and example use cases, visit our documentation at [docs.incribo.com](https://docs.incribo.com/quickstart).
 
 
-# 🔗 Be a part of our Community
-
+# 🌐 Contributing
+Drop us an email to report a bug, or request a feature here: info@incribo.com
 
 
 # 🤝 Connect with the founders 1:1 
 Connect with us [here](https://cal.com/uma08/30min).
 
 
-# 🌐 Contributing
-Join our growing community around the world, for help, ideas, and discussions on AI.
+# 💪 Community
+Join our growing community around the world, for help, ideas, and everything on AI and beyond:
 
-- View our official [Blog]().
 - Chat with us on [Discord]().
 - Follow us on [Twitter](https://twitter.com/IncriboOfficial).
 - Connect with us on [LinkedIn](https://www.linkedin.com/company/incribo).
