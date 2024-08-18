@@ -34,16 +34,24 @@ print(f"Model: {model}")
 print(emb)
 ```
 
+
+
 # 📖 Documentation
 For detailed usage instructions and example use cases, visit our documentation at [docs.incribo.com](https://docs.incribo.com/quickstart).
+
+
 
 
 # 🌐 Contributing
 Drop us an email to report a bug, or request a feature here: info@incribo.com
 
 
+
+
 # 🤝 Connect with the founders 1:1 
 Connect with us [here](https://cal.com/uma08/30min).
+
+
 
 
 # 💪 Community
