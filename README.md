@@ -1,6 +1,7 @@
 # incribo
 Incribo lets you add **state** to your embeddings. Using it, you can track how embeddings change over time, compare different embeddings to see their similarities and stream new data to update embeddings on the fly. 
 
+
 - **Real-time Embedding Updates**: Efficient handling of evolving, dynamic data.
 - **Compare embedding qualities**: Compare different embeddings and evaluate their quality using customizable metrics.
 - **Versioning & Control**: Create multiple versions of embeddings and track them over time with rollback abilities.
@@ -8,11 +9,13 @@ Incribo lets you add **state** to your embeddings. Using it, you can track how e
 - **Cross-Platform Compatibility**: Hassle-free hosted solution.
 
 
+
 # 🔧 Quick install
 ```python
 #Download the Python package
 pip install incribo
 ```
+
 
 # ✨ Basic Usage
 Before we get started, it is advised to setup a virtual environment to work in. Next, add your embedding model and generate stateful embeddings with Incribo like so -
@@ -33,6 +36,7 @@ print(f"Model: {model}")
 # print the Embedding object 
 print(emb)
 ```
+
 
 
 
