@@ -1,3 +1,5 @@
+# Developer docs: https://docs.incribo.com/quickstart
+
 from incribo import Embedding, EmbeddingStreamer
 
 # Basic embedding creation and manipulation
