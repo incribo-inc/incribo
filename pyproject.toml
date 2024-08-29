@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "incribo_dev"
+version = "0.1.2"
+description = "Generate stateful embeddings for your AI"
+authors = ["Uma Venugopal <uma@incribo.com>"]
+readme = "README.md"
+packages = [{include = "incribo", from = "python"}]
+package-mode = true
+
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+maturin = "^1.6.0"
+numpy = "^2.0.0"
+matplotlib = "^3.9.1"
+sentence-transformers = "^3.0.1"
+torch = "^2.4.0"
+pytest = "^8.3.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^8.3.2"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0", "maturin>=1.6,<2.0", "setuptools", "wheel", "setuptools-rust"]
+build-backend = "maturin"
+
+
+[tool.maturin]
+features = ["pyo3/extension-module"]
+module-name = "incribo"
+python-source = "python_src"
